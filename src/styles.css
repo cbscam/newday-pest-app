@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f6f7f8;
+}
+
+.app {
+  padding: 40px;
+}
+
+h1 {
+  color: #1f7a3f;
+}
